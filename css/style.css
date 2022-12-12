@@ -302,6 +302,13 @@ a:focus {
     font-weight: 600;
 }
 
+.hero .hero-text h3 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
 .hero .hero-text .typed-text {
     display: none;
 }
